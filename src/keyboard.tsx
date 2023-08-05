@@ -1,5 +1,4 @@
-import styles from "./Keyboard.module.css";
-
+import styles from "./Keyboard.module.css"
 import React from "react"
 const KEYS = [
     "a",
