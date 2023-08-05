@@ -1,3 +1,4 @@
+import React from "react"
 type HangmanWordProps = {
     guessed: string[],
     wordToGuess: string,
